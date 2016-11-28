@@ -21,9 +21,6 @@ var dataTypes = module.exports = function(value){
 		if(value[2] != null){
 			return value[2];
 		}
-		else{
-			return undefined;
-		}
 	}
 	if(typeof(value) === 'function'){
 		return 'called callback';
