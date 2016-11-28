@@ -1,0 +1,25 @@
+{
+  "name": "data-type-lab",
+  "version": "1.0.0",
+  "description": "data type lab",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyendah/data-type-lab.git"
+  },
+  "author": "Subair Oyindamola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyendah/data-type-lab/issues"
+  },
+  "homepage": "https://github.com/oyendah/data-type-lab#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
